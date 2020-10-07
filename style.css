@@ -1,0 +1,23 @@
+*{
+    text-decoration-color: powderblue;
+}
+.header{
+    text-align:center;
+    color: darkviolet;
+
+}
+.designs{
+color:lightpink;
+display:flex;
+
+    justify-content:space-around;
+}
+.facts{
+color:black;
+}
+.footer{
+color:darkmagenta;
+}
+p{
+    
+}
